@@ -1,0 +1,7 @@
+#12 Flutter Global Bloc || Dispose Bloc (local bloc)
+
+✅ 1. Global BLoC
+A Global BLoC is created at a high level (like main.dart) and shared across many widgets. It usually lives for the entire app lifecycle.
+  
+✅ 2. Local BLoC
+A Local BLoC is tied to a specific widget/page and should be disposed when that widget is removed from the tree.
